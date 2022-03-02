@@ -1,6 +1,6 @@
 # Labner_Grafana_iobroker_influx_skeleton
 ## installation 
-sudo chmod +x setup.sh
+sudo chmod +x setup.sh <br/>
 sudo .env.dist .env
 sudo ./setup.sh
 
